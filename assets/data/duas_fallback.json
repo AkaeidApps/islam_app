@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Dua for Before Eating",
+    "arabic": "بِسْمِ اللَّهِ",
+    "translation": "In the name of Allah.",
+    "transliteration": "Bismillah",
+    "categoryId": "food",
+    "source": "Sunan Abi Dawud 3767"
+  },
+  {
+    "id": 2,
+    "title": "Dua for After Eating",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "translation": "All praise is for Allah who fed me this and provided it for me without any strength or power from myself.",
+    "transliteration": "Alhamdu lillahil-lathee at'amani hadha wa razaqanihi min ghayri hawlin minni wa la quwwah",
+    "categoryId": "food",
+    "source": "Sunan al-Tirmidhi 3458"
+  },
+  {
+    "id": 3,
+    "title": "Morning Remembrance",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner.",
+    "transliteration": "Asbahna wa asbahal mulku lillah walhamdu lillah la ilaha illallah wahdahu la sharika lah",
+    "categoryId": "morning",
+    "source": "Sahih Muslim 4/2021"
+  },
+  {
+    "id": 4,
+    "title": "Evening Remembrance",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah. All praise is for Allah. None has the right to be worshipped except Allah, alone, without any partner.",
+    "transliteration": "Amsayna wa amsal mulku lillah walhamdu lillah la ilaha illallah wahdahu la sharika lah",
+    "categoryId": "morning",
+    "source": "Sahih Muslim 4/2021"
+  },
+  {
+    "id": 5,
+    "title": "Dua for Before Sleeping",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "translation": "In Your name, O Allah, I die and I live.",
+    "transliteration": "Bismika Allahumma amutu wa ahya",
+    "categoryId": "sleep",
+    "source": "Sahih Bukhari 6324"
+  },
+  {
+    "id": 6,
+    "title": "Dua for Waking Up",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+    "transliteration": "Alhamdu lillahil-lathee ahyana ba'da ma amatana wa ilayhinushur",
+    "categoryId": "sleep",
+    "source": "Sahih Bukhari 6312"
+  },
+  {
+    "id": 7,
+    "title": "Dua for Travel",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "translation": "Glory be to Him who has subjected this to us, and we could never have it by our own abilities. And indeed, to our Lord we are returning.",
+    "transliteration": "Subhanal-lathee sakhkhara lana hadha wa ma kunna lahu muqrinin wa inna ila rabbina lamunqalibun",
+    "categoryId": "travel",
+    "source": "Sahih Bukhari 3225"
+  },
+  {
+    "id": 8,
+    "title": "Dua for Seeking Knowledge",
+    "arabic": "اللَّهُمَّ اجْعَلْهُ عِلْمًا نَافِعًا وَرِزْقًا وَاسِعًا",
+    "translation": "O Allah, make this beneficial knowledge and a wide provision.",
+    "transliteration": "Allahumma ij'alhu 'ilman nafi'an wa rizqan wasi'a",
+    "categoryId": "general",
+    "source": "Sunan Ibn Majah"
+  },
+  {
+    "id": 9,
+    "title": "Dua for Protection",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "translation": "O Allah, I seek refuge in You from anxiety and sorrow, weakness and laziness, miserliness and cowardice, the burden of debts and from being overpowered by men.",
+    "transliteration": "Allahumma inni a'udhu bika minal-hammi wal-hazan, wal-'ajzi wal-kasal, wal-bukhli wal-jubn, wa dala'id-dayni wa ghalabatir-rijal",
+    "categoryId": "general",
+    "source": "Sahih Bukhari 6369"
+  },
+  {
+    "id": 10,
+    "title": "Dua after Prayer",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ أَسْتَغْفِرُ اللَّهَ أَسْتَغْفِرُ اللَّهَ اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "translation": "I seek the forgiveness of Allah (three times). O Allah, You are Peace and from You is peace. Blessed are You, O Owner of Majesty and Honor.",
+    "transliteration": "Astaghfirullah (x3). Allahumma antas-salam wa minkas-salam, tabarakta ya dhal-jalali wal-ikram",
+    "categoryId": "prayer",
+    "source": "Sahih Muslim 4/2022"
+  },
+  {
+    "id": 11,
+    "title": "Dua for Guidance",
+    "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+    "translation": "O Allah, guide me and keep me on the straight path.",
+    "transliteration": "Allahumma ihdini wa saddidni",
+    "categoryId": "general",
+    "source": "Sunan an-Nasa'i"
+  },
+  {
+    "id": 12,
+    "title": "Dua for Patience",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الصَّبْرَ وَالشُّكْرَ",
+    "translation": "O Allah, I ask You for patience and gratitude.",
+    "transliteration": "Allahumma inni as'alukas-sabrash-shakr",
+    "categoryId": "general",
+    "source": "Sunan at-Tirmidhi"
+  }
+]
